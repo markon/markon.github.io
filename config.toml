@@ -2,7 +2,7 @@ baseURL = 'https://markon.github.io/'
 languageCode = 'en-us'
 title = 'Neolithic'
 theme = 'archie'
-copyright = '© Marco Buccini
+copyright = '© Marco Buccini'
 
 # Code Highlight
 pygmentsstyle = "monokai"
